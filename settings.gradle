@@ -1,3 +1,1 @@
-include ':MaterialSearch'
-include ':app'
-rootProject.name = "MaterialSearchBar"
+include ':app :MaterialSearch'
